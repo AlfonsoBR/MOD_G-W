@@ -1,2 +1,3 @@
-# MOD_G-W
-Manual y guía para sacar provecho a Game &amp; Watch Super Mario Bros 35th anniversary
+# Guia para modificación FW en Watch Super Mario Bros 35th anniversary
+[Working on it]
+
