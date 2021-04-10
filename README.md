@@ -9,7 +9,7 @@ Guia para modificar el FW original y poder obtener:
   - GameBoy
   - Game Gear
   - Master System
-  - PC Engine
+  - PC Engine (parcial)
 
 - Emulador LCD:
   - G&W Nintendo
