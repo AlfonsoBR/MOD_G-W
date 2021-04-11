@@ -24,4 +24,4 @@ Guia para modificar el FW original y poder obtener:
 
 ## 1. Preparación
 
-[TBC]
+[TBD]
