@@ -2,6 +2,8 @@
 
 ***[Working on it]***
 
+![G&W](assets/G&W.png)
+
 Guia para modificar el FW original y poder obtener:
 
 - Emulador RetroGo:
@@ -23,5 +25,9 @@ Guia para modificar el FW original y poder obtener:
 ---
 
 ## 1. Preparación
+
+### 1.1 Material necesario
+
+ 
 
 [TBD]
