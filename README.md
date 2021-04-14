@@ -31,3 +31,17 @@ Guia para modificar el FW original y poder obtener:
  
 
 [TBD]
+
+***
+
+## Contacto
+
+Grupo [Discord](https://discord.gg/xhUmXe8G) en español
+Grupo [Discord](https://discord.gg/vVcwrrHTNJ) en ingles, más contenido.
+Hilo [EOL](https://www.elotrolado.net/hilo_game-watch-super-mario_2391666_s1150).
+[Launcher, emulador G&W, utlidades y otros binarios](https://www.schuerewegen.tk/gnw/)
+
+## Licencia
+
+Los proyectos aquí mencionados están licenciados bajo la GPLv2 / MIT license.
+Y según las licencias mecionadas en [www.schuerewegen.tk](https://www.schuerewegen.tk/gnw/) para otras utilidades y binarios de este manual.
